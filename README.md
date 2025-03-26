@@ -4,7 +4,7 @@ A Swift package for converting DOCX files to PDF format.
 
 ## Requirements
 
-- iOS 13.0+ / macOS 10.15+
+- iOS 13.0+ 
 - Swift 5.5+
 - Xcode 13.0+
 
